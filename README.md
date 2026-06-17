@@ -6,14 +6,12 @@
 
 **Claude Code (CLI):**
 
-    /plugin marketplace add <твой-github-ник>/rf-yurist
+    /plugin marketplace add gmen1057/rf-yurist
     /plugin install rf-yurist
 
 **Claude Cowork (десктоп):**
 
-Customize → Plugins → «+» в разделе Personal plugins → Add marketplace → введите `<твой-github-ник>/rf-yurist` → установите плагин **rf-yurist**.
-
-> Замените `<твой-github-ник>` на ваш GitHub-логин после публикации репозитория.
+Customize → Plugins → «+» в разделе Personal plugins → Add marketplace → введите `gmen1057/rf-yurist` → установите плагин **rf-yurist**.
 
 ## Что внутри
 
