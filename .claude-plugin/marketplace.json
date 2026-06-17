@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "rf-yurist",
+  "version": "0.1.0",
+  "description": "Маркетплейс с плагином RF-Юрист — навыки Claude для работы с российским правом.",
+  "owner": {
+    "name": "Evgenii"
+  },
+  "plugins": [
+    {
+      "name": "rf-yurist",
+      "description": "Юрист-консультант по праву РФ: фактчек норм по первоисточникам, анализ рисков, составление и проверка договоров, проверка применимости западных конструкций.",
+      "source": "./rf-yurist",
+      "version": "0.1.0",
+      "category": "legal",
+      "tags": ["россия", "право", "законодательство", "договоры", "риски"]
+    }
+  ]
+}
